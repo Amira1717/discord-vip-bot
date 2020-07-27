@@ -9,11 +9,11 @@
   "dependencies": {
     "discord.js": "11.1.0",
     "request": "2.81.0",
-    "prefix": "1.1.0",
-    "moment": "1.1.0",
-    "fetch": "1.1.0",
-    "mysql": "1.1.0",
-    "sequelize": "1.1.0",
-    "cron": "1.1.0"
+    "prefix": "",
+    "moment": "",
+    "fetch": "",
+    "mysql": "",
+    "sequelize": "",
+    "cron": ""
   }
 }
